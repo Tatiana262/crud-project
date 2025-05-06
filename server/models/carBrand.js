@@ -30,6 +30,15 @@ module.exports = (sequelize, DataTypes) => {
         tableName: 'CarBrands',
         timestamps: false
     });
+
+    CarBrand.associate = function(models) {
+      // Связь с заказами через промежуточную таблицу
+      CarBrand.belongsToMany(models.Order, {
+        through: 'OrderItems',
+        foreignKey: 'carBrandId',
+      });
+    };
+
     return CarBrand;
   };
   

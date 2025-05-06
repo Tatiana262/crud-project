@@ -7,8 +7,8 @@ async function getCarBrandsList() {
     } catch (error) {
       throw new Error('Error in use case: ' + error.message);
     }
-  }
+}
   
-  module.exports = {
-    getCarBrandsList
-  };
+module.exports = {
+  getCarBrandsList
+};

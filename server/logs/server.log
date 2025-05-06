@@ -6,3 +6,75 @@
 {"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-10T16:56:49.925Z"}
 {"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-10T18:51:09.779Z"}
 {"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-10T18:58:37.716Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T16:26:32.307Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:03:40.723Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:14:00.351Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:17:09.753Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:18:16.151Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:26:32.939Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:27:35.037Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:27:50.706Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:29:38.810Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:29:56.034Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:33:24.969Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:34:45.054Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:34:49.963Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:34:56.270Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:35:18.205Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:35:21.719Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:35:24.885Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:36:29.723Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:36:38.786Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T17:59:28.810Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T18:32:49.102Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T18:32:55.236Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-03-24T18:52:39.957Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:18:24.261Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:22:05.607Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:22:08.077Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:38:23.279Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:38:25.000Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:38:26.102Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:38:27.343Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:39:45.492Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-09T18:41:26.677Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T08:53:53.388Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T08:53:53.393Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T09:06:34.831Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T09:06:34.837Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T09:19:44.578Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T09:19:44.582Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T09:19:50.879Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T09:19:50.883Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T09:47:05.396Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T09:47:05.401Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T10:20:19.577Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T10:20:19.585Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T10:53:19.336Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T10:53:19.339Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T10:57:24.314Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T10:57:24.342Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:10:22.306Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:10:22.314Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:10:29.068Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:10:29.073Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:10:30.519Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:10:30.522Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:10:46.221Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:10:46.225Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:12:15.086Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:12:15.092Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:13:20.020Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:13:20.100Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:24:57.436Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:24:57.456Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:26:53.909Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:26:53.912Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:35:44.424Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:35:44.428Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:36:48.624Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:36:48.627Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:43:35.039Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:43:35.043Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-04-11T11:45:03.442Z"}
+{"level":"info","message":"GraphQL available at http://localhost:4000/graphql","timestamp":"2025-04-11T11:45:03.445Z"}

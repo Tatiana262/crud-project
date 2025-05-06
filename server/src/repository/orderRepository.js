@@ -18,8 +18,43 @@ async function createOrder(customerName, items) {
     } catch (error) {
       throw new Error('Error creating order: ' + error.message);
     }
+}
+
+async function getOrderById(orderId) {
+  try {
+    const order = await Order.findByPk(orderId, {attributes: ['id', 'status']});
+    return order;
   }
+  catch (error) {
+    throw new Error('Error finding order: ' + error.message);
+  }
+}
+
+async function updateOrderStatus(order, status) {
+  try {
+    
+    order.status = status;
+    await order.save(); // Сохраняем изменения в БД
+
+    return order; // Возвращаем обновлённый заказ
+
+  }
+  catch (error) {
+    throw new Error('Error updating order status: ' + error.message);
+  }
+}
+
+async function deleteOrder(orderId) {
+  try {
+    await Order.destroy({ where: { id: orderId } });
+  } catch (error) {
+    throw new Error('Error deleting order: ' + error.message);
+  }
+}
   
-  module.exports = {
-    createOrder
-  };
+module.exports = {
+  createOrder,
+  getOrderById,
+  updateOrderStatus,
+  deleteOrder
+};
